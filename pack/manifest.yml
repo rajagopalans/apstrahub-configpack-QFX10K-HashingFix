@@ -1,6 +1,6 @@
 ---
 manifest_version: 1
-description: This is an example pack which includes a single configlet.
+description: This config pack applies the Hashing Fix to the QFX 10k
 supported_apstra_versions:
   - 5.0.0
   - 5.0.1
